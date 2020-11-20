@@ -67,6 +67,7 @@
     </distributionManagement>
 
     <build>
+        <finalName>devops</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
