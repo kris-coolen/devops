@@ -19,6 +19,13 @@
         <java.version>11</java.version>
     </properties>
 
+    <scm>
+        <connection>scm:git@github.com:kris-coolen/devops.git</connection>
+        <developerConnection>scm:git@github.com:kris-coolen/devops.git</developerConnection>
+        <tag>HEAD</tag>
+        <url>git@github.com:kris-coolen/devops.git</url>
+    </scm>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
