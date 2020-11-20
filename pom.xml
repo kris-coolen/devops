@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.realdolmen</groupId>
     <artifactId>spring-web-application</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>spring-web-application</name>
     <description>Demo project for Spring Boot</description>
@@ -21,7 +21,7 @@
     <scm>
         <connection>scm:git:git@github.com:kris-coolen/devops.git</connection>
         <developerConnection>scm:git:git@github.com:kris-coolen/devops.git</developerConnection>
-        <tag>1.0.0</tag>
+        <tag>HEAD</tag>
         <url>https://github.com/kris-coolen/devops.git</url>
     </scm>
 
