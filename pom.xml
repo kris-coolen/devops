@@ -20,8 +20,8 @@
     </properties>
 
     <scm>
-        <connection>scm:git@github.com:kris-coolen/devops.git</connection>
-        <developerConnection>scm:git@github.com:kris-coolen/devops.git</developerConnection>
+        <connection>scm:git:git@github.com:kris-coolen/devops.git</connection>
+        <developerConnection>scm:git:git@github.com:kris-coolen/devops.git</developerConnection>
         <tag>HEAD</tag>
         <url>https://github.com/kris-coolen/devops.git</url>
     </scm>
